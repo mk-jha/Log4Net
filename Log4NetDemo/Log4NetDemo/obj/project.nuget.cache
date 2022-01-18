@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DNKzBBt9gf2xob6h9eugCK8DVguTDPoEmm2tl6B02GzPFnKqlPS+R6dmEJ3o+oBRCokH+4ZIxmNfOP3ZJHNSNA==",
+  "success": true,
+  "projectFilePath": "D:\\Kellton\\PoC\\Log4Net\\Log4NetDemo\\Log4NetDemo\\Log4NetDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murari.jha\\.nuget\\packages\\log4net\\2.0.14\\log4net.2.0.14.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\murari.jha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
